@@ -36,7 +36,7 @@ They will send you an email once they confirm your apply.
 
 * add SSH keys <br>
 ![](https://i.imgur.com/1SZjHSg.png)
-paste your public key
+<br>paste your public key
 <br>
 
 * then it will look like...<br>
