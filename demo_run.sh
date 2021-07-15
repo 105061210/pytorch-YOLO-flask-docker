@@ -1,0 +1,1 @@
+python demo_server.py -cfgfile cfg/yolov4.cfg -weightfile backup/yolov4.weights -port 8891
