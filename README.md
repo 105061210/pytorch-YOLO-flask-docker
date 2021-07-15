@@ -3,8 +3,6 @@
 ##### and the flask+docker part is based on the series of tutorial: https://daniel820710.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%BE%9E%E9%9B%B6%E5%88%B0%E4%B8%80-day1-%E5%BB%BA%E7%AB%8B-gcp-%E6%A9%9F%E5%99%A8-vm-%E5%9F%B7%E8%A1%8C%E5%80%8B%E9%AB%94-f9efe32377e7
 ##### For my own detailed implementation, please visit: https://hackmd.io/@sWWbma3eSOOsFTf7i0ax8w/H1f6pyN6O
 
-# Labexp Notepad
-
 
 ## 2021/07
 ## Create VM on GCP
@@ -28,17 +26,20 @@ They will send you an email once they confirm your apply.
 (They said it might take 2 work days, but I got the reply almost in 10 minutes)
 
 ### 4. create VM instances
-* configure
+* configure <br>
 ![](https://i.imgur.com/6LrvQEx.png)
 <br>
-* operating system
+
+* operating system <br>
 ![](https://i.imgur.com/sYACRZn.png)
 <br>
-* add SSH keys
+
+* add SSH keys <br>
 ![](https://i.imgur.com/1SZjHSg.png)
 paste your public key
 <br>
-* then it will look like...
+
+* then it will look like...<br>
 ![](https://i.imgur.com/XPIPiTR.png)
 
 
